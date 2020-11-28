@@ -1,0 +1,33 @@
+body{
+	background-image: url(../images/11.jpg);
+}
+p{
+	color:white;
+}
+
+h1{
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+h1#kudo{
+	color: yellow;
+	background-color: blue;
+	text-align: center;
+}
+
+h2#yamato{
+	color: red ;
+	background-color: blue;
+	text-align: center;
+}
+
+h2{
+	color: white;
+	background-color: blue;
+	text-align: center;
+}
+
+h2:hover{
+background-color: aqua	
+}
